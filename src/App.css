@@ -1,0 +1,10 @@
+.App {
+  background-image: linear-gradient(240deg, #87cdfa 0%, #ffb4c3 100%);
+  min-height: 100vh;
+}
+
+.home {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
